@@ -21,6 +21,7 @@ Answer: **TODO**
 
 - Solana Mobile Stack [SMS](https://github.com/solana-mobile/solana-mobile-stack-sdk)
 - Metaplex [Solana.swift](https://github.com/metaplex-foundation/Solana.Swift)
+- Video: Introducing [SMS](https://www.youtube.com/watch?v=HlWx1IWY0GU)
 
 Question: Which database (firebase, moralis, etc) is best for Solana mobile development? Which did Stepn use?
 
